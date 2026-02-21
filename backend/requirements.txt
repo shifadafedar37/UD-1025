@@ -1,0 +1,10 @@
+# AI Digital Government Officer — Python Requirements
+# Powered by Anthropic Claude (claude-haiku)
+
+# Core server
+flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+
+# Anthropic Claude SDK
+anthropic>=0.40.0
